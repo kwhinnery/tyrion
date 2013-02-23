@@ -1,0 +1,5 @@
+.DS_Store
+.idea
+config.js
+manifest.yml
+node_modules
