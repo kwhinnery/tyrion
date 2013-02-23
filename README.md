@@ -38,6 +38,20 @@ the name of the channel they want to post to:
 
 `#twilio hey twilio hackers - let's grab beers after this.`
 
+## PAQ (Potentially Asked Questions)
+
+#### Why might I want to use Tyrion?
+
+When you want to establish an ad-hoc mass notification system, and allow groups of people to organize and communicate
+among themselves.  I'm thinking Tyrion will be super useful for conferences, user groups, hackathons, and other events
+where timely communication is useful from organizers to attendees, and between the attendees themselves.  E-Mail isn't
+immediate enough, and attendees won't know everyone's e-mail.  Tyrion is meant to enable ad hoc groups to quickly
+form and coordinate.
+
+#### Hey Kevin, I'm running an event and this sounds really cool, but I need help getting set up.
+
+No problem - shoot me a mail and I'm happy to help: kwhinnery at twilio dot com.
+
 ## TODO
 
 * Send messages in a background process (general scaling)
