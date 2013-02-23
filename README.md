@@ -47,5 +47,6 @@ the name of the channel they want to post to:
 * More granular permissions/controls for chat channels (op mode for channel creator, `/kick`, etc.)
 * More robust user identification (`/nick` and so forth)
 * Direct message to a specific nick
+* Test specs :P
 * Web interface?
 * Implement MongoHQ REST API to make it easier to provision MongoDB?
