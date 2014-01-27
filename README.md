@@ -12,7 +12,7 @@ Tyrion is an IRC-like chat server for SMS.  Tyrion is powered by [twilio](http:/
 5. Rename `config.example.js` to `config.js`
 6. Open `config.js` and configure your Twilio account details and phone number. Also include your MongoDB connection URL (if you used MongoHQ, this will be available in their admin console).
 7. In config.js, specify the phone numbers of the admins of this chat server, who will be able to post to the `#ann` channel.
-8. Deploy this node.js application to the server of your choice.  My personal favorite free PaaS for node.js is [AppFog](http://www.appfog.com).
+8. Deploy this node.js application to the server of your choice.  My personal favorite free PaaS for node.js is [Heroku](http://www.heroku.com).
 9. In the Twilio dashboard, configure `http://yourserver.com/sms` as the SMS URL for your Twilio number.
 10. Your Twilio number is now configured to act as an SMS chat server!
 
